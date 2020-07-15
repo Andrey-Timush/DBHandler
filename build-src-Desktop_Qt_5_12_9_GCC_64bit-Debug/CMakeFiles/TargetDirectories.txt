@@ -1,0 +1,4 @@
+/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/CMakeFiles/dbhandler.dir
+/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/CMakeFiles/dbhandler_autogen.dir

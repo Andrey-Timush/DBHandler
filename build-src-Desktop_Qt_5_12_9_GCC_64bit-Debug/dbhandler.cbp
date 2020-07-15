@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dbhandler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Qt\;CMake Files\..\..\Qt\5.12.9\;CMake Files\..\..\Qt\5.12.9\gcc_64\;CMake Files\..\..\Qt\5.12.9\gcc_64\lib\;CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\;CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\;CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dbhandler">
+				<Option output="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/dbhandler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+					<Add directory="/home/user3/dbhandler/src"/>
+					<Add directory="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/dbhandler_autogen/include"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include/QtCore"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include/QtSql"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 dbhandler"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dbhandler/fast">
+				<Option output="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/dbhandler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+					<Add directory="/home/user3/dbhandler/src"/>
+					<Add directory="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/dbhandler_autogen/include"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include/QtCore"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/user3/Qt/5.12.9/gcc_64/include/QtSql"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 dbhandler/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dbhandler_autogen">
+				<Option working_dir="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 dbhandler_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/user3/dbhandler/build-src-Desktop_Qt_5_12_9_GCC_64bit-Debug/dbhandler_autogen/mocs_compilation.cpp">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/main.cpp">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/dbhandler.cpp">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/dbhandler.h">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/jsonconf.cpp">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/jsonconf.h">
+			<Option target="dbhandler"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/home/user3/dbhandler/src/../../Qt/5.12.9/gcc_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.12.9\gcc_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
